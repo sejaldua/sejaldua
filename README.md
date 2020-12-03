@@ -20,6 +20,6 @@ I'm a programmer, data scientist, biomedical engineer, runner, and sushi connois
 - 👩‍💻 I am interested in the intersection between technology and human health. That being said, I also care a lot about education, music, and sports!
 - 📈 I love using data to tell stories, make better decisions, model complex systems, analyze behavior, and solve problems.
 - 🌱 I’m currently learning about recommender systems, Bayesian belief networks, and computer vision (separately, though).
-- ⚡ Fun fact: I memorized 314 digits of pi in 6th grade... and still remember them... because I am a huge nerd. 🤓 
 - 🔜 In Spring 2021, I will be co-teaching a course called Data Science for Biotech in the Tufts Experimental College with my friend [Sook](https://github.com/sevans09)
+- ⚡ Fun fact: I memorized 314 digits of pi in 6th grade... and still remember them... because I am a huge nerd. 🤓 
 - 📫 How to reach me: [email](mailto:sejaldua@gmail.com)
