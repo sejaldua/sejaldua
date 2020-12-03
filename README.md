@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Sejal 👋
 
 <!--
 **sejaldua/sejaldua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a programmer, data scientist, biomedical engineer, runner, and sushi connoisseur 🍣 .
+
+- 👩‍💻 I am interested in the intersections between technology and human health. That being said, I also care a lot about education, music, and sports!
+- 📈 I love using data to tell stories, make better decisions, model complex systems, analyze behavior, and solve problems.
+- 🌱 I’m currently learning about recommender systems, Bayesian belief networks, and computer vision (separately, though).
+- ⚡ Fun fact: I memorized 314 digits of pi in 6th grade... and still remember them... because I am a huge nerd. 🤓 
+- 📫 How to reach me: [email](mailto:sejaldua@gmail.com)
