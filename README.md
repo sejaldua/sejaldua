@@ -23,3 +23,5 @@ I'm a programmer, data scientist, biomedical engineer, runner, and sushi connois
 - 🔜 In Spring 2021, I will be co-teaching a course called Data Science for Biotech in the Tufts Experimental College.
 - ⚡ Fun fact: I memorized 314 digits of pi in 6th grade... and still remember them... because I am a huge nerd. 🤓 
 - 📫 My [email](mailto:sejaldua@gmail.com) inbox is always open! Happy to chat and/or collaborate on a project!
+
+![](https://komarev.com/ghpvc/?username=sejaldua&color=A4CEE5)
