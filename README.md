@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a data scientist, programmer, biomedical engineer, runner, and sushi connoisseur 🍣 .
+I'm a data scientist, programmer, biomedical engineer, runner, and sushi connoisseur 🍣.
 
-- 👩‍💻 I am interested in the intersection between technology and human health. That being said, I also care a lot about education, music, and sports!
-- 📈 I love using data to tell stories, make better decisions, model complex systems, analyze behavior, and solve problems.
+- 👩‍💻 I am passionate about accelerating the healthcare domain with seamless technology integration, data-driven decision-making, and cloud-based AI.
+- 🌱 Currently learning TensorFlow
+- 🏫 Recently graduated Summa Cum Laude from Tufts University with a dual degree in Data Science and Biomedical Engineering!
 - 💬 Ask me about my experience co-teaching Data Science for Biotech in the Tufts Experimental College.
-- ⚡ Fun fact: I memorized 314 digits of pi in 6th grade... and still remember them... because I am a huge nerd. 🤓 
+- ⚡ Fun fact: I memorized 314 digits of pi in 6th grade... and still remember them... because I am a huge nerd!
 - 📫 How to reach me: [email](mailto:sejaldua@gmail.com). Happy to chat and/or collaborate on a project!
 
 ![](https://komarev.com/ghpvc/?username=sejaldua&color=A4CEE5)
