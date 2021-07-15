@@ -19,7 +19,7 @@ I'm a data scientist, programmer, biomedical engineer, runner, and sushi connois
 
 - 👩‍💻 I am passionate about accelerating the healthcare domain with seamless technology integration, data-driven decision-making, and cloud-based AI.
 - 🌱 Currently learning TensorFlow
-- 🏫 Recently graduated Summa Cum Laude from Tufts University with a dual degree in Data Science and Biomedical Engineering!
+- 🎓 Recently graduated Summa Cum Laude from Tufts University with a dual degree in Data Science and Biomedical Engineering!
 - 💬 Ask me about my experience co-teaching Data Science for Biotech in the Tufts Experimental College.
 - ⚡ Fun fact: I memorized 314 digits of pi in 6th grade... and still remember them... because I am a huge nerd!
 - 📫 How to reach me: [email](mailto:sejaldua@gmail.com). Happy to chat and/or collaborate on a project!
