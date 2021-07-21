@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a data scientist, programmer, biomedical engineer, runner, and sushi connoisseur 🍣.
 
-- 👩‍💻 I am passionate about accelerating the healthcare domain with seamless technology integration, data-driven decision-making, and cloud-based AI.
+- 👩‍💻 I am passionate about accelerating the healthcare domain with seamless technology integration, data-driven decision making, and cloud-based AI.
 - 🌱 Currently learning TensorFlow
 - 🎓 Recently graduated Summa Cum Laude from Tufts University with a dual degree in Data Science and Biomedical Engineering!
 - 💬 Ask me about my experience co-teaching Data Science for Biotech in the Tufts Experimental College.
