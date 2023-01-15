@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I'm a data scientist, programmer, biomedical engineer, runner, and sushi connoisseur 🍣.
 
-- 👩‍💻 I am passionate about accelerating the healthcare domain with seamless technology integration, data-driven decision making, and AI-powered analytics.
-- 🌱 Currently learning TensorFlow, graph analytics, and mobile development
-- 🎓 Recently graduated Summa Cum Laude from Tufts University with a dual degree in Data Science and Biomedical Engineering!
+- 👩‍💻 I am passionate about data-driven decision making, health & fitness technology, and leveraging AI & ML to augment human capabilities.
+- 🌱 Currently learning graph analytics, and mobile development, and sports analytics!
+- 🎓 Recently graduated Summa Cum Laude from Tufts University with a dual degree in Data Science and Biomedical Engineering! Now pursuing in M.S. in Analytics from Georgia Institute of Technology
 - 💬 Ask me about my experience co-teaching a college class (Data Science for Biotech) at Tufts.
 - ⚡ Fun fact: I memorized 314 digits of pi in 6th grade... and still remember them... because I am a huge nerd!
 - 📫 How to reach me: [email](mailto:sejaldua@gmail.com). Happy to chat and/or collaborate on a project!
